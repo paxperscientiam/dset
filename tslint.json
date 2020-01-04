@@ -10,6 +10,7 @@
       "spaces",
       4
     ],
+    "no-unused-expression": [true, "allow-fast-null-checks"],
     "max-line-length": [true, 300],
     "no-bitwise": false,
     "semicolon": [true, "never"],
